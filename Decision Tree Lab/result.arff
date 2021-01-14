@@ -1,0 +1,35 @@
+@relation cgpa
+@attribute Study numeric
+@attribute Recreation numeric
+@attribute Financial {Poor, Moderate, Good}
+@attribute Attendance numeric
+@attribute Lab {Poor, Moderate, Good}
+@attribute Concentration {Poor, Moderate, Good}
+@attribute CT {Poor, Moderate, Good}
+@attribute Final {Poor, Moderate, Good}
+@attribute Result {Poor, Moderate, Good}
+
+@data
+7	2	Poor	85	Moderate	Moderate	Moderate	Good	Moderate
+8	1	Good	90	Good	Good	Good	Good	Good
+2	4	Good	75	Poor	Poor	Good	Poor	Poor
+3	6	Moderate	95	Good	Good	Moderate	Good	Good
+4	4	Moderate	98	Good	Good	Moderate	Moderate	Moderate
+3	7	Poor	79	Moderate	Moderate	Moderate	Good	Moderate
+8	1	Poor	100	Good	Good	Moderate	Good	Good
+10	2	Good	90	Moderate	Good	Poor	Poor	Poor
+10	3	Moderate	85	Moderate	Moderate	Moderate	Good	Moderate
+2	8	Good	60	Poor	Poor	Poor	Poor	Poor
+3	5	Moderate	75	Moderate	Good	Moderate	Moderate	Moderate
+8	4	Good	80	Good	Moderate	Moderate	Poor	Moderate
+5	6	Good	85	Moderate	Poor	Poor	Good	Moderate
+1	0	Poor	80	Moderate	Good	Moderate	Moderate	Moderate
+5	3	Moderate	79	Poor	Moderate	Moderate	Moderate	Moderate
+4	3	Moderate	90	Good	Moderate	Good	Good	Good
+1	4	Good	70	Good	Poor	Poor	Poor	Poor
+10	2	Good	99	Moderate	Good	Good	Good	Good
+6	2	Poor	80	Good	Moderate	Moderate	Good	Good
+1	10	Good	20	Poor	Poor	Poor	Poor	Poor
+2	8	Poor	10	Poor	Poor	Moderate	Moderate	Moderate
+10	5	Poor	100	Good	Good	Good	Good	Poor
+
